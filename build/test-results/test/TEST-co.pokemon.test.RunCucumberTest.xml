@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.pokemon.test.RunCucumberTest" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="dbc-000486" time="0.0">
+  <properties/>
+  <system-out><![CDATA[
+6 Scenarios (?[32m6 passed?[0m)
+18 Steps (?[32m18 passed?[0m)
+0m4,865s
+
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
