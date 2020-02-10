@@ -6,6 +6,6 @@ import org.junit.runner.Description;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(plugin = {"pretty", "html:reports"}, strict = true)
+@CucumberOptions(plugin = {"pretty", "html:target/report"}, strict = true)
 public class RunCucumberTest {
 }

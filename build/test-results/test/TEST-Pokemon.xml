@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Pokemon" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-02-09T21:42:55" hostname="dbc-000486" time="1.971">
+<testsuite name="Pokemon" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-02-10T14:17:16" hostname="dbc-000486" time="2.691">
   <properties/>
-  <testcase name="Consultar um pokemon pelo id" classname="Pokemon" time="1.309"/>
-  <testcase name="Consultar pokemons padrão" classname="Pokemon" time="0.29"/>
-  <testcase name="Consultar pokemons padrão" classname="Pokemon" time="0.213"/>
-  <testcase name="Consultar pokemons padrão" classname="Pokemon" time="0.157"/>
+  <testcase name="Consultar um pokemon pelo id" classname="Pokemon" time="1.488"/>
+  <testcase name="Consultar pokemons padrão" classname="Pokemon" time="0.544"/>
+  <testcase name="Consultar pokemons padrão" classname="Pokemon" time="0.303"/>
+  <testcase name="Consultar pokemons padrão" classname="Pokemon" time="0.343"/>
   <system-out><![CDATA[
 @Pokemon
 Esquema do Cenário: Consultar um pokemon pelo id              ?[90m# co/pokemon/test/Pokemon.feature:11?[0m
